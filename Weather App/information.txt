@@ -1,0 +1,40 @@
+
+
+apiKey
+
+
+		863242cfb2b1d357e6093d9a4df19a4b
+
+
+apiURl
+
+
+
+	
+
+
+
+
+Weather Data Collection Website
+
+		https://openweathermap.org/api
+
+
+
+
+
+
+
+Api current Weather call by city name
+	https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&units=metric
+
+
+
+
+
+
+units like are the parameters and they can be found in above link weather data collection website and under it select current weather data.
+
+
+
+Nothing to more show you.
